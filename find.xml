@@ -2,6 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="所有位置" />
     <option name="defaultScopeName" value="所有位置" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="所有位置" />
     <mask>*.css</mask>
     <mask>*.html</mask>
