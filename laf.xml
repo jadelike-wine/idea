@@ -1,7 +1,5 @@
 <application>
   <component name="LafManager" autodetect="true">
-    <laf class-name="com.intellij.ide.ui.laf.IntelliJLaf" themeId="Material Lighter Contrast" />
-    <preferred-light-laf class-name="com.intellij.ide.ui.laf.IntelliJLaf" themeId="Material Lighter Contrast" />
-    <preferred-dark-laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="Atom One Dark Contrast" />
+    <laf class-name="com.intellij.ide.ui.laf.IntelliJLaf" themeId="JetBrainsLightTheme" />
   </component>
 </application>

@@ -3,16 +3,16 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://code.aone.alibaba-inc.com/mos/mos-associate" />
+          <option name="url" value="http://10.126.22.105:31080/rail/railway/loco-affairs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.alibaba-inc.com:mos/mos-associate.git" />
-          <option name="userName" value="" />
+          <option name="url" value="http://10.126.22.105:31080" />
+          <option name="userName" value="lvyanpu@foxmail.com" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\lyp99\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
@@ -21,6 +21,7 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
       </list>
     </option>
   </component>
