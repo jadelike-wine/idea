@@ -1,6 +1,6 @@
 <application>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value=".problems" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
