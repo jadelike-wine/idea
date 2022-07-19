@@ -124,6 +124,37 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.jetbrains.edu">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="com.jetbrains.pycharm.edu.sharedIndexes.bundled">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.pycharm.educational" />
+                  <option value="intellij.indexing.shared.core" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.jetbrains.python.sharedIndexes.downloadable">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.python" />
+                  <option value="intellij.indexing.shared.core" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.mallowigi">
           <value>
             <PluginData>
@@ -159,6 +190,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.notime.intellijPlugin.backgroundImagePlus">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.squaretest.Squaretest">
           <value>
             <PluginData>
@@ -168,6 +210,17 @@
                 </set>
               </option>
               <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.starxg.mybatis-log-plugin-free">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
@@ -199,6 +252,11 @@
             <PluginData />
           </value>
         </entry>
+        <entry key="idea.plugin.protoeditor">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="io.zhile.research.ide-eval-resetter">
           <value>
             <PluginData>
@@ -220,6 +278,11 @@
                 </set>
               </option>
             </PluginData>
+          </value>
+        </entry>
+        <entry key="org.intellij.plugins.junitgen">
+          <value>
+            <PluginData />
           </value>
         </entry>
         <entry key="zielu.gittoolbox">
