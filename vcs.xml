@@ -10,6 +10,10 @@
           <option name="url" value="http://10.126.22.105:31080" />
           <option name="userName" value="lvyanpu@foxmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="lyp9990@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\lyp99\IdeaProjects" />
