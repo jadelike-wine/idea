@@ -3,5 +3,6 @@
     <option name="PROXY_TYPE_IS_SOCKS" value="true" />
     <option name="PROXY_HOST" value="127.0.0.1" />
     <option name="PROXY_PORT" value="4781" />
+    <option name="PROXY_EXCEPTIONS" value="192.168.0.*、*.leetcode.cn" />
   </component>
 </application>
