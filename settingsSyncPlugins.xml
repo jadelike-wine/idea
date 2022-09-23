@@ -2,6 +2,19 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="DBN">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="GsonFormatPlus">
           <value>
             <PluginData>
@@ -19,6 +32,18 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="MvnRunner">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="org.jetbrains.idea.maven" />
                 </set>
               </option>
               <option name="enabled" value="false" />
@@ -59,6 +84,22 @@
                   <option value="com.intellij.modules.xml" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.alibaba.p3c.xenoamess">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.modules.vcs" />
+                  <option value="com.intellij.modules.xdebugger" />
+                  <option value="com.intellij.modules.xml" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
@@ -87,7 +128,6 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -212,6 +252,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.poratu.idea.plugins.tomcat">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.squaretest.Squaretest">
           <value>
             <PluginData>
@@ -281,6 +332,17 @@
           </value>
         </entry>
         <entry key="izhangzhihao.rainbow.brackets">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="leetcode-editor">
           <value>
             <PluginData>
               <option name="dependencies">
